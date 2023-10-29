@@ -1,0 +1,29 @@
+h1{
+    margin: 10px;
+}
+
+p,h2{
+    padding-left: 10px;
+}
+
+.partofSpeech{
+    color: white;
+    /* background-color: black; */
+    /* text-align: center; */
+    background-color: deeppink;
+}
+
+.cardContainer{
+    padding-bottom: 100px;
+}
+.linkContainer{
+    text-align: center;
+    margin-top: 3rem;
+}
+a{
+    color: white;
+    border: 3px solid midnightblue;
+    padding: 5px;
+    background-color: midnightblue;
+    text-decoration: none;
+}
